@@ -9,5 +9,5 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class AppComponent {
-  title = '1300-app';
+  title = 'Hello world!';
 }
